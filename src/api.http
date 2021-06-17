@@ -1,0 +1,7 @@
+###
+
+GET api.themoviedb.org/3/movie/3/lists?api_key=7315ec59ea2264da1fa4f4eb8d647853&language=en-US
+
+###
+
+Get https://api.themoviedb.org/3/movie/33/images?api_key=7315ec59ea2264da1fa4f4eb8d647853&language=en-US
